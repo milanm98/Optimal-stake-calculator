@@ -6,7 +6,7 @@ function Title(){
                         text-xs 
                         md:text-xl">
                         Modified kelly criterion algorithm
-                        </div>
+        </div>
     )
 }
 

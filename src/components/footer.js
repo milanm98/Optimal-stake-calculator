@@ -9,10 +9,10 @@ function Footer(){
                         text-white 
                         text-xs md:text-sm">
             <p>
-                        Designed and coded by Marjanov Milan
+                Designed and coded by Marjanov Milan
             </p>
             <p>
-                        Contact me via email : marjanovmilan12@gmail.com
+                Contact me via email : marjanovmilan12@gmail.com
             </p>
         </div>
     )

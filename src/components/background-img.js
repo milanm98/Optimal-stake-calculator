@@ -9,8 +9,10 @@ function BackgroundImg(){
                         flex 
                         items-center 
                         justify-center" 
-                        alt="background" 
-                        src={Background}></img>
+                            alt="background" 
+                                src={Background}>
+                
+        </img>
     )
 }
 
