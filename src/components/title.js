@@ -3,9 +3,9 @@ function Title(){
         <div className="w-full
                         h-auto 
                         text-center 
-                        text-xs 
-                        md:text-xl">
-                        Modified kelly criterion algorithm
+                        text-lg 
+                        md:text-2xl">
+                            Modified kelly criterion algorithm
         </div>
     )
 }

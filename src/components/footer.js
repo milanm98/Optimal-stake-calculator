@@ -11,9 +11,11 @@ function Footer(){
             <p>
                 Designed and coded by Marjanov Milan
             </p>
+
             <p>
                 Contact me via email : marjanovmilan12@gmail.com
             </p>
+            
         </div>
     )
 }
