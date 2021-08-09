@@ -13,6 +13,4 @@ My modified will tell you better not to place money, since you are not very well
 Bookmakers can make mistakes, but mistake of 50% ? That is unreal.
 This modified system will block any bets that are over evaluated.
 
-Go try it. thank me later.
-
-demo : 
+demo : modifiedkelly.netlify.app
