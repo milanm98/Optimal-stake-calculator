@@ -31,15 +31,12 @@ function OddsForm(){
             let possibleProfit = ((100/realChance) - 1).toFixed(2);
             let kellyResult = (winProbability * possibleProfit - loseProbability) / possibleProfit;
             
-            
             let overRated = winProbability - (realChance/100).toFixed(2);
-            alert(overRated);
 
             if(kellyResult <= 0 || (overRated > 0.2)) {
                 setMessage("You should not bet on this match !");
                 setMessageStyle("text-center w-3/5 md:w-1/5 bg-red-200");
             }else{
-                
                 let stake = (balance*kellyResult).toFixed(2);
                 setMessage("You should place a bet of " + stake + " units");
                 setMessageStyle("text-center w-3/5 md:w-1/5 bg-green-200");
